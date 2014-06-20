@@ -1,6 +1,6 @@
 hindley-milner
 ==============
-http://dysphoria.net/code/hindley-milner/HindleyMilner.scala
+http://dysphoria.net/2009/06/28/hindley-milner-type-inference-in-scala/
 Andrew Forrest
 
 Implementation of basic polymorphic type-checking for a simple language.
